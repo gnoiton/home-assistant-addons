@@ -1,11 +1,11 @@
-version: "3.0.0-alpha.92"
+version: "3.0.0-alpha.gauv"
 image: ghcr.io/t0bst4r/home-assistant-matter-hub-addon
 slug: hamh
 name: Home-Assistant-Matter-Hub
-description: Publish your entities from Home Assistant to any Matter-compatible controller like Alexa, Apple Home or Google Home.
+description: Publish your entities from Home Assistant to any Matter-compatible controller.
 url: https://github.com/gnoiton/home-assistant-matter-hub
 panel_icon: mdi:hub
-panel_title: Matter Hub
+panel_title: Matter Hub M
 homeassistant: 2024.1.0
 homeassistant_api: true
 host_network: true
